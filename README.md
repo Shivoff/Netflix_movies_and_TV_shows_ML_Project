@@ -1,5 +1,5 @@
  Netflix movie tv_show clustering recommendation
-DALL·E 2025-03-17 19 38 40 - A simple and clean template for a Netflix Movies and TV Shows Clustering machine learning project  The design should feature a minimalistic Netflix-th
+ A simple and clean template for a Netflix Movies and TV Shows Clustering machine learning project  The design should feature a minimalistic Netflix-th
 
 📌 Project Overview
 This project performs clustering on Netflix movies and TV shows using machine learning techniques. The dataset consists of various features such as title, genre, release year, cast, and ratings, which are used to group similar content together.
